@@ -1,0 +1,16 @@
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\APP de cadastro de jogos em .NET.exe
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\APP de cadastro de jogos em .NET.deps.json
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\APP de cadastro de jogos em .NET.runtimeconfig.json
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\APP de cadastro de jogos em .NET.runtimeconfig.dev.json
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\APP de cadastro de jogos em .NET.dll
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\ref\APP de cadastro de jogos em .NET.dll
+C:\projetos\APP de cadastro de jogos em .NET\bin\Debug\net5.0\APP de cadastro de jogos em .NET.pdb
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.csprojAssemblyReference.cache
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.AssemblyInfoInputs.cache
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.AssemblyInfo.cs
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.csproj.CoreCompileInputs.cache
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.dll
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\ref\APP de cadastro de jogos em .NET.dll
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.pdb
+C:\projetos\APP de cadastro de jogos em .NET\obj\Debug\net5.0\APP de cadastro de jogos em .NET.genruntimeconfig.cache

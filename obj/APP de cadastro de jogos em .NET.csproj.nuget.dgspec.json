@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projetos\\APP de cadastro de jogos em .NET\\APP de cadastro de jogos em .NET.csproj": {}
+  },
+  "projects": {
+    "C:\\projetos\\APP de cadastro de jogos em .NET\\APP de cadastro de jogos em .NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetos\\APP de cadastro de jogos em .NET\\APP de cadastro de jogos em .NET.csproj",
+        "projectName": "APP de cadastro de jogos em .NET",
+        "projectPath": "C:\\projetos\\APP de cadastro de jogos em .NET\\APP de cadastro de jogos em .NET.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\APP de cadastro de jogos em .NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
